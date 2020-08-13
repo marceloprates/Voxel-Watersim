@@ -1,4 +1,4 @@
-# voxel-watersim
+# Voxel Watersim
 ## A voxel fluid simulator implemented in Processing
 
 A body of water is dropped on top of a randomly-generated landscape and cellular automaton rules are used to simulate fluid dynamics.
